@@ -1,7 +1,7 @@
 /* General styling */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #74ebd5, #acb6e5);
+    background: background: linear-gradient(135deg, #74ebd5, #acb6e5);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -52,7 +52,7 @@ input {
 }
 
 input:focus {
-    border-color: #74ebd5;
+    border-color: #6d0ac4;
     outline: none;
 }
 
@@ -61,7 +61,7 @@ button {
     margin-top: 15px;
     width: 100%;
     padding: 12px;
-    background: #5c67f2;
+    background: #121212;
     color: white;
     border: none;
     border-radius: 6px;
