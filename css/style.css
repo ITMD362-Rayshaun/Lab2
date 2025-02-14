@@ -52,7 +52,7 @@ input {
 }
 
 input:focus {
-    border-color: #6d0ac4;
+    border-color: #e30202;
     outline: none;
 }
 
